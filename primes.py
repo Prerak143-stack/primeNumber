@@ -1,5 +1,4 @@
-# My name is Prerak Patel and my student number is 000736376. I haven't share my
-# program with anyone and my professor's name is Tiffany, Anotoploski
+
 
 limit = int(input("Upto which number you want to know the prime number : "))
 count = 2
